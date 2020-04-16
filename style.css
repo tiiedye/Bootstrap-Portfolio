@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+  }
+
+.navBG {
+    background-color: lightseagreen;
+}
+
+.h1 {
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.abt {
+    margin: 20px 200px 20px 200px;
+    padding: 20px;
+    height: 500px;
+    background-color: whitesmoke;
+    border: darkgrey;
+    border-style: solid;
+    border-width: 1px;
+    position: relative;
+}
+
+#background {
+    background-color: lightgray;
+}
+
+#img {
+    float: left;
+    position: absolute;
+    height: 250px;
+    width: 250px;
+}
+
+#abtme {
+    float: left;
+    position: absolute;
+    left: 300px;
+}
