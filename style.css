@@ -19,41 +19,18 @@ h2 {
 }
 
 .box {
-    margin-top: 20px;
-    padding: 20px;
-    height: 500px;
-    width: 800px;
     background-color: whitesmoke;
     border: darkgrey;
     border-style: solid;
     border-width: 1px;
     position: relative;
-    left: 25%;
 }
 
 #background {
     background-color: lightgray;
 }
 
-#img {
-    float: left;
-    position: absolute;
-    height: 250px;
-    width: 250px;
-}
-
 #abtme {
-    margin-right: 20px;
-    float: left;
-    position: absolute;
-    left: 300px;
-    font-family: 'Raleway', sans-serif;
-}
-
-#abtme2 {
-    position: absolute;
-    margin-right: 20px;
-    top: 350px;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -65,4 +42,8 @@ h2 {
 .mybtn:hover {
     background-color: white;
     color: teal;
+}
+
+#abtimg {
+    margin-bottom: 20px;
 }
