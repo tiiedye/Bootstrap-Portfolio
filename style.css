@@ -1,7 +1,3 @@
-* {
-    box-sizing: border-box;
-  }
-
 .navBG {
     background-color: teal;
 }
@@ -30,7 +26,7 @@ h2 {
     background-color: lightgray;
 }
 
-#abtme {
+.abtme {
     font-family: 'Raleway', sans-serif;
 }
 
