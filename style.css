@@ -3,24 +3,32 @@
   }
 
 .navBG {
-    background-color: lightseagreen;
+    background-color: teal;
 }
 
 .h1 {
     color: white;
-    font-size: 30px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-family: 'Girassol', cursive;
 }
 
-.abt {
-    margin: 20px 200px 20px 200px;
+h2 {
+    color: teal;
+    font-size: 30px;
+    font-family: 'Girassol', cursive;
+}
+
+.box {
+    margin-top: 20px;
     padding: 20px;
     height: 500px;
+    width: 800px;
     background-color: whitesmoke;
     border: darkgrey;
     border-style: solid;
     border-width: 1px;
     position: relative;
+    left: 25%;
 }
 
 #background {
@@ -35,7 +43,26 @@
 }
 
 #abtme {
+    margin-right: 20px;
     float: left;
     position: absolute;
     left: 300px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#abtme2 {
+    position: absolute;
+    margin-right: 20px;
+    top: 350px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.mybtn {
+    background-color: teal;
+    color: white;
+}
+
+.mybtn:hover {
+    background-color: white;
+    color: teal;
 }
