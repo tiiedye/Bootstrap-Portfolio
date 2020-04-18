@@ -5,13 +5,13 @@
 .h1 {
     color: white;
     font-size: 36px;
-    font-family: 'Girassol', cursive;
+    font-family: 'Cinzel', serif;
 }
 
 h2 {
     color: teal;
     font-size: 30px;
-    font-family: 'Girassol', cursive;
+    font-family: 'Cinzel', serif;
 }
 
 .box {
@@ -28,6 +28,19 @@ h2 {
 
 .abtme {
     font-family: 'Raleway', sans-serif;
+}
+
+.portfolio {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.a {
+    color: teal;
+}
+
+.a:hover {
+    color: black;
 }
 
 .mybtn {
